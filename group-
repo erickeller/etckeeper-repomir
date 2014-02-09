@@ -18,7 +18,7 @@ voice:x:22:
 cdrom:x:24:
 floppy:x:25:
 tape:x:26:
-sudo:x:27:
+sudo:x:27:radmin
 audio:x:29:
 dip:x:30:
 www-data:x:33:
@@ -42,3 +42,5 @@ crontab:x:102:
 syslog:x:103:
 ssh:x:104:
 ssl-cert:x:105:
+ftp:x:106:
+radmin:x:1000:
